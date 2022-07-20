@@ -1,0 +1,2 @@
+#COVID-19 Exploration
+Covid-19 exploration data analysis project! In this project, I performed exploring tasks of the COVID-19 dataset ontaining data from 2020-04-24 to 2022-05-29. I worked on this project to gain insights about the virus spreading and how the vaccine acted upon the virus, a high-tech manufacturer of health-focused products for women, and met different characters and team members. In order to answer the key business questions,I follow the steps of the data analysis process: ask, prepare, process, analyze, share, and act
